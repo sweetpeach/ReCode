@@ -3,6 +3,9 @@
 
 http://aclweb.org/anthology/D18-1111
 
+## How to Run
+Run the command 'bash run_trained_model.sh'
+
 ## BibTex
 ```
 # coding=utf-8
